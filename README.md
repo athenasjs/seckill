@@ -15,7 +15,7 @@
 CREATE DATABASE seckill;
 USE seckill;
 
--- todo:mysql　Ver　5.7.12for Linux(x86_64)中一个表只能有一个TIMESTAMP
+-- 创建秒杀单表
 CREATE TABLE seckill(
 `seckill_id` BIGINT NOT NUll AUTO_INCREMENT COMMENT '商品库存ID',
 `name` VARCHAR(120) NOT NULL COMMENT '商品名称',
