@@ -1,6 +1,6 @@
 # 基于SSM框架实现的秒杀系统
 ## 技术点
-- Spring, SpringMVC,Mybatis,Maven,Bootstrap,jQuery,Mysql,RestfulAPI
+- **Spring,SpringMVC,Mybatis,Maven,Bootstrap,jQuery,Mysql,RestfulAPI**
 - 使用Redis后端缓存优化秒杀查询性能
 - 使用存储过程优化秒杀时间
 
