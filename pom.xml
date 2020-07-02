@@ -46,7 +46,7 @@
       表示dependency不作用在编译时，但会作用在运行和测试时，如JDBC驱动，适用运行和测试阶段-->
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.35</version>
+      <version>8.0.16</version>
       <scope>runtime</scope>
     </dependency>
     <!--数据库连接池 比较常用的c3p0
