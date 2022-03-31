@@ -133,7 +133,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.1.7.RELEASE</version>
+      <version>5.3.18</version>
     </dependency>
 
     <!--4)spring test相关的依赖   单元测试时需要加载spring容器 需要spring test相关依赖
